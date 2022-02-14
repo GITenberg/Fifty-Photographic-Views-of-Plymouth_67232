@@ -1,0 +1,29 @@
+_repo: Fifty-Photographic-Views-of-Plymouth_67232
+_version: 0.0.1
+alternative_title: 50 Photographic Views of Plymouth
+contributor:
+  compiler:
+    agent_name: Murphy, John F. (Map publisher)
+    gutenberg_agent_id: '54163'
+    url: http://www.gutenberg.org/2009/agents/54163
+description: ''
+gutenberg_issued: '2022-01-23'
+identifiers:
+  gutenberg: '67232'
+  lccn: 01011568
+language: en
+pgterms:marc905: 20220118035255murphy
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: Steve Mattern, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :John F Murphy,1898.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plymouth (Mass.) -- Pictorial works'
+- !lcc 'F001'
+- GITenberg
+title: Fifty Photographic Views of Plymouth
+url: http://www.gutenberg.org/ebooks/67232
