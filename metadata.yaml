@@ -6,7 +6,12 @@ contributor:
     agent_name: Murphy, John F. (Map publisher)
     gutenberg_agent_id: '54163'
     url: http://www.gutenberg.org/2009/agents/54163
+covers:
+- cover_type: archival
+  image_path: 67232-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67232#Fifty-Photographic-Views-of-Plymouth
 gutenberg_issued: '2022-01-23'
 identifiers:
   gutenberg: '67232'
